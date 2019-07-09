@@ -1,5 +1,9 @@
 * {
 	color:white;
+	font-family: Helvetica;
+}
+#txt {
+	color:black
 }
 .container{
 	box-sizing: border-box;
