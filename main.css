@@ -8,13 +8,14 @@
     float: left;
 
 }
-div > div{
+#pad {
 	padding: 10px;
 	width: 15%;
 	border : 2px solid black;
 	float :right;
 	margin-bottom: 5px;
 	text-align: center;
+	color: lightgray;
 
 }
 p{
